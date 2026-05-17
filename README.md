@@ -101,16 +101,18 @@ bash configs/eval_ood_in100.sh
 
 ## Acknowledgements
 
-This work builds upon the [Training-Free Guidance (TFG)](https://github.com/UCSB-NLP-Chang/Training-Free-Guidance) framework. We thank the authors for their excellent codebase.
+This work builds upon the [Training-Free Guidance (TFG)](https://github.com/YWolfeee/Training-Free-Guidance) framework. We thank the authors for their excellent codebase.
 
 ## Citation
 
 ```bibtex
-@article{good2025,
-  title={GOOD: Training-Free Guided Diffusion Sampling for Out-of-Distribution Detection},
-  author={},
-  journal={},
-  year={2025}
+@article{gao2026good,
+  title={Good: Training-free guided diffusion sampling for out-of-distribution detection},
+  author={Gao, Xin and Liu, Jiyao and Li, Guanghao and Lyu, Yueming and Gao, Jianxiong and Yu, Weichen and Xu, Ningsheng and Wang, Liang and Shan, Caifeng and Liu, Ziwei and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={12325--12359},
+  year={2026}
 }
 ```
 
